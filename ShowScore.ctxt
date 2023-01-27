@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ShowScore
+comment0.text=\r\n\ Score\ displayer\ when\ the\ game\ is\ still\ running\r\n\ \r\n\ @author\ github.com/fiekzz\r\n\ @version\ 4\ June\ 2022\r\n
+comment1.params=
+comment1.target=ShowScore()
+comment2.params=
+comment2.target=void\ act()
+numComments=3
